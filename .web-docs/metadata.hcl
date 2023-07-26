@@ -2,7 +2,7 @@
 # https://github.com/hashicorp/integration-template#metadata-configuration
 integration {
   name = "LXD"
-  description = "TODO"
+  description = "The LXD plugin can be used with HashiCorp Packer to create OCI images with LXD."
   identifier = "packer/BrandonRomano/lxd"
   component {
     type = "builder"
