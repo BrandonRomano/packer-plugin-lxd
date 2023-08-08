@@ -3,7 +3,7 @@
 integration {
   name = "LXD"
   description = "The LXD plugin can be used with HashiCorp Packer to create OCI images with LXD."
-  identifier = "packer/BrandonRomano/lxd"
+  identifier = "packer/hashicorp/lxd"
   component {
     type = "builder"
     name = "LXD"
